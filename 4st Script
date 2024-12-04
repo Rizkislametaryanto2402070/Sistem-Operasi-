@@ -1,0 +1,31 @@
+Welcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to supple-serenity-437205-d2.
+Use “gcloud config set project [PROJECT_ID]” to change to a different project.
+rizkislametaryanto@cloudshell:~ (supple-serenity-437205-d2)$ touch latihan3.sh
+rizkislametaryanto@cloudshell:~ (supple-serenity-437205-d2)$ echo #!/bin/bash
+
+echo “Script untuk menerima input”
+echo “===========================”
+
+echo “Rizki Slamet Aryanto :”
+
+read Nama
+
+echo “=============================”
+
+echo “Nama anda adalah :” tNama
+echo “Membaca :”
+read Hobi
+
+echo “Hobi anda adalah :” tHobi
+
+“Script untuk menerima input”
+“===========================”
+“Rizki Slamet Aryanto :”
+
+“=============================”
+“Nama anda adalah :” tNama
+“Membaca :”
+
+“Hobi anda adalah :” tHobi
+rizkislametaryanto@cloudshell:~ (supple-serenity-437205-d2)$
