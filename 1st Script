@@ -1,0 +1,12 @@
+Welcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to supple-serenity-437205-d2.
+Use “gcloud config set project [PROJECT_ID]” to change to a different project.
+rizkislametaryanto@cloudshell:~ (supple-serenity-437205-d2)$ pwd
+/home/rizkislametaryanto
+rizkislametaryanto@cloudshell:~ (supple-serenity-437205-d2)$ touch hello.sh
+rizkislametaryanto@cloudshell:~ (supple-serenity-437205-d2)$ echo #!/bin/bash echo " hello world! "
+
+rizkislametaryanto@cloudshell:~ (supple-serenity-437205-d2)$ nano hello.sh
+rizkislametaryanto@cloudshell:~ (supple-serenity-437205-d2)$ chmod +x hello.sh
+rizkislametaryanto@cloudshell:~ (supple-serenity-437205-d2)$ ./hello.sh
+Hello, world!
